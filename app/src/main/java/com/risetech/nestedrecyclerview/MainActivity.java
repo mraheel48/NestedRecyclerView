@@ -1,15 +1,14 @@
-package com.rajendra.nestedrecyclerview;
+package com.risetech.nestedrecyclerview;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import android.os.Bundle;
-import android.view.LayoutInflater;
 
-import com.rajendra.nestedrecyclerview.adapter.MainRecyclerAdapter;
-import com.rajendra.nestedrecyclerview.model.AllCategory;
-import com.rajendra.nestedrecyclerview.model.CategoryItem;
+import com.risetech.nestedrecyclerview.adapter.MainRecyclerAdapter;
+import com.risetech.nestedrecyclerview.model.AllCategory;
+import com.risetech.nestedrecyclerview.model.CategoryItem;
 
 import java.util.ArrayList;
 import java.util.List;

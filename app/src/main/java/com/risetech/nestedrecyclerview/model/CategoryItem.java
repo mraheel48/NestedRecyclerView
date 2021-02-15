@@ -1,4 +1,4 @@
-package com.rajendra.nestedrecyclerview.model;
+package com.risetech.nestedrecyclerview.model;
 
 public class CategoryItem {
 

@@ -1,4 +1,4 @@
-package com.rajendra.nestedrecyclerview.model;
+package com.risetech.nestedrecyclerview.model;
 
 import java.util.List;
 

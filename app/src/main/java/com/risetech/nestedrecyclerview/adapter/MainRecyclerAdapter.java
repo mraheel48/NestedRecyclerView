@@ -1,4 +1,4 @@
-package com.rajendra.nestedrecyclerview.adapter;
+package com.risetech.nestedrecyclerview.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -10,9 +10,9 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.rajendra.nestedrecyclerview.R;
-import com.rajendra.nestedrecyclerview.model.AllCategory;
-import com.rajendra.nestedrecyclerview.model.CategoryItem;
+import com.risetech.nestedrecyclerview.R;
+import com.risetech.nestedrecyclerview.model.AllCategory;
+import com.risetech.nestedrecyclerview.model.CategoryItem;
 
 import java.util.List;
 

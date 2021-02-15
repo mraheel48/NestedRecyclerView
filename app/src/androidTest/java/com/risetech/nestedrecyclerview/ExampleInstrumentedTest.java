@@ -1,4 +1,4 @@
-package com.rajendra.nestedrecyclerview;
+package com.risetech.nestedrecyclerview;
 
 import android.content.Context;
 
